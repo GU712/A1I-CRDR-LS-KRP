@@ -63,7 +63,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05bdc5cd1aad710bd59287116a1ceb718409ec22$$lsname=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61522ccd6c1e1dc39aaed5419cc96a0d963646e6$$lsname=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39ff35bd0de20ed65e8df260a1279397520d7f89$$lsname=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77060eea5bf0aafd417471d86a4cb3e39995ca64$$lsname=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77060eea5bf0aafd417471d86a4cb3e39995ca64T>$$lsname=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:784ae22d8a3de09f453692075d8c2ff118d610d4$$lsname=[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6aa2024a298c898adb621612f83cc46794f5b259$$lsname=[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fb10b434f9f41b82dc30f016be5083105fb9e5e$$lsname=[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>
@@ -146,10 +146,45 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Pessoa de Interesse (DATA) - T02 - FHD DUAL[/B][/COLOR]</title>
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Pessoa de Interesse (2012) - T02 - HD DUAL[/B][/COLOR]</title>
 
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 22 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E01.mkv$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Contingencia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E02.mkv$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Codigo Invalido [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E03.mkv$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Baile de Mascaras [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E04.mkv$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Guarda-costas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E05.mkv$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Enterrar o Lede [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E06.mkv$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Estrada [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E07.mkv$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Critica [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E08.mkv$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Ate a Morte [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E09.mkv$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]C.O.D. [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E10.mkv$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Caixa de Sombra [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E11.mkv$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]2 Pi R [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E12.mkv$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Dilema do Prisioneiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E13.mkv$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Morto Computo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E14.mkv$$lsname=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Um Por Cento [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E15.mkv$$lsname=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Agenda Cheia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E16.mkv$$lsname=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Relevancia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E17.mkv$$lsname=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Proteu [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E18.mkv$$lsname=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Tudo em [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E19.mkv$$lsname=[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]Cavalo de Troia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E20.mkv$$lsname=[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]Em Extremis [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E21.mkv$$lsname=[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]Zero Dia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T02/LS-T02E22.mkv$$lsname=[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]Modo Deus [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/dNutl6N1mEq12ugZlLt0tGeuqmE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg</fanart>
+<info>John Reese, um ex-agente da CIA, é recrutado por Finch, um milionário e gênio da tecnologia, para ajudar na identificação de pessoas envolvidas em futuros crimes.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Pessoa de Interesse (DATA) - T03 - FHD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 03 - 00 EPs[/B][/COLOR]</link>		
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
@@ -182,6 +217,7 @@ SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
 
