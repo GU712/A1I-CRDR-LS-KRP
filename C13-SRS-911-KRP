@@ -28,7 +28,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item>
+<item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T01 - HD DUAL[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a227cd962b3f38917b7a6e7208cbd0489eb4dbb</link>
 <thumbnail><CAPADASERIE></thumbnail>
@@ -38,7 +38,7 @@ item>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item>
+<item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T02- HD DUAL[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a227cd962b3f38917b7a6e7208cbd0489eb4dbb</link>
 <thumbnail><CAPADASERIE></thumbnail>
@@ -48,7 +48,7 @@ item>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item>
+<item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]9-1-1 (2019) - FHD DUAL[/B][/COLOR]</title>
 <link>NOLINK$$lsname=[COLOR orange][B] Completo - 3 Temps - 40 EPs[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
@@ -184,8 +184,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E06.mkv$$lsname=[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Briga No Bloco De Celas 9-1-1 [/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E07.mkv$$lsname=[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Historias De Fantasma [/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E08.mkv$$lsname=[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Defender No Lugar [/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E09.mkv$$lsname=[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]Passado e Prologo [/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E10.mkv$$lsname=[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Enrolado Em Vermelho [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E09.mkv$$lsname=[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]Passado e Prologo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E10.mkv$$lsname=[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Enrolado Em Vermelho [/B][/COLOR]</link>
 
 <link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
 <link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
