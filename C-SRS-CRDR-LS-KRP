@@ -167,7 +167,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]CSI: Nova York (2004-2012) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://github.com/GU712/A1I-CRDR-LS-KRP/edit/main/C23-SRS-CSI.Nova.York-KRP</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/A1I-CRDR-LS-KRP/main/C23-SRS-CSI.Nova.York-KRP</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/28zP1oyg1C8CeFXmEcOcLkSUMQ7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xwhp6vi30tOYnMcsHaIEbloLkH3.jpg</fanart>
 <info>Assista a série CSI: Nova York. 
@@ -177,6 +177,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels>
 <channel>
 <name>[COLOR white][B]Desaparecidos (2002-2009)[/B][/COLOR]</name>
