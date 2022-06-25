@@ -152,7 +152,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]C.S.I. Cyber (2015)[/B][/COLOR]</name>
+<name>[COLOR white][B]CSI: Investigação Criminal (2000-2015) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/A1I-CRDR-LS-KRP/main/C25-SRS-CSI.Las.Vegas-KRP</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/4LEty57u3sjh5HZ80lH4yez1SAd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AganKzamK1dnkqNoHwngavBVzor.jpg</fanart>
+<info>Assista a série CSI: Investigação Criminal. 
+[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+[COLOR orange][B]16 TEMPS - 339 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2000 a 0000[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]C.S.I. Cyber (2015) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/A1I-CRDR-LS-KRP/main/C24-SRS-CSI.Cyber-KRP</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/fCdD4PZWgcgx2HBklcXSA29ZuK9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cbOb5UC1BmdifRVNhT6FNdOqWEA.jpg</fanart>
