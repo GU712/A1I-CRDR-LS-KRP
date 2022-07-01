@@ -9,12 +9,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Agatha Christie - Poirot[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=8phR94MbhqM</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hxqeJ1loc0IRr4kmWFfZkFN2fvS.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/m3p1JBvC1Ksu02M5C7OiwwFSYhf.jpg</fanart>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=mRo7tMnM60I</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/KX69tBuobsjtr9ea1J5OxtvIV1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>CRIME E DRAMA</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+TORRENTS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (1989) - HD ENG[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:939CCE3CE443A81DA27BB8E5C71F42741B008754</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/KX69tBuobsjtr9ea1J5OxtvIV1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
+<genre>CRIME E DRAMA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -23,32 +37,32 @@ SERVER LS
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (1989) - T01 - SD DUAL[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (1989) - T01 - SD LEG FIX[/B][/COLOR]</title>
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>		
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Hercule.Poirot/Agatha.Cristie.Poirot/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Aventura da Cozinheira de Clapham [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Hercule.Poirot/Agatha.Cristie.Poirot/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Morte nos Estabulos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Hercule.Poirot/Agatha.Cristie.Poirot/T01/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Aventura de Johnnie Waverly [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Hercule.Poirot/Agatha.Cristie.Poirot/T01/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]24 Melros [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Hercule.Poirot/Agatha.Cristie.Poirot/T01/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Apartamento do Terceiro  Andar [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Hercule.Poirot/Agatha.Cristie.Poirot/T01/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Triangulo em Rhodes [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Hercule.Poirot/Agatha.Cristie.Poirot/T01/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Problema no Mar [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Hercule.Poirot/Agatha.Cristie.Poirot/T01/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Roubo Inacreditavel [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Hercule.Poirot/Agatha.Cristie.Poirot/T01/LS-T01E09.mkv$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Rei de Paus [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Hercule.Poirot/Agatha.Cristie.Poirot/T01/LS-T01E10.mkv$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Sonho [/B][/COLOR]</link>
-		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Poirot/A.C.Poirot/T01/LS-T01E01.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Aventura da Cozinheira Clapham  [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Poirot/A.C.Poirot/T01/LS-T01E02.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Assassinato por procurasao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Poirot/A.C.Poirot/T01/LS-T01E03.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Aventura de Johnnie Waverly [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Poirot/A.C.Poirot/T01/LS-T01E04.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O morto tinha dentes brancos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Poirot/A.C.Poirot/T01/LS-T01E05.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O apartamento do terceiro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Poirot/A.C.Poirot/T01/LS-T01E06.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Enigma em Rodes [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Poirot/A.C.Poirot/T01/LS-T01E07.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Misterio no mar [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Poirot/A.C.Poirot/T01/LS-T01E08.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Roubo para o castelo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Poirot/A.C.Poirot/T01/LS-T01E09.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Rei dos Clubes [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Poirot/A.C.Poirot/T01/LS-T01E10.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O sonho [/B][/COLOR]</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/2d9FljyOKvizbqk4pL9YOQZQUYs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
-<info>A série adaptou cada grande obra escrita por Agatha Christie que caracterizou o personagem.</info>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
 <genre>CRIME E DRAMA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie - Poirot (DATA) - T02 - FHD DUAL[/B][/COLOR]</title>
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (1990) - T02 - SD LEG FIX[/B][/COLOR]</title>
 
-link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
@@ -60,13 +74,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <thumbnail>https://www.themoviedb.org/t/p/original/lhlbiX3DZHQOZ0SHPDAbhFcf9Zs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
-<info>A série adaptou cada grande obra escrita por Agatha Christie que caracterizou o personagem.</info>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
 <genre>CRIME E DRAMA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
- item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie - Poirot (DATA) - T03 - FHD DUAL[/B][/COLOR]</title>
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (1991) - T03 - SD LEG FIX[/B][/COLOR]</title>
 
 <link>NOLINK$$lsname=[COLOR orange][B] Temporada 03 - 00 EPs[/B][/COLOR]</link>		
 
@@ -78,9 +92,209 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
 <link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
 
-<thumbnail><CAPADATEMP03></thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/irZBhO1knsBi46PZUZxQKM26hxW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
-<info>A série adaptou cada grande obra escrita por Agatha Christie que caracterizou o personagem.</info>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (1992) - T04 - SD LEG FIX[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 04 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/rnqlRXg22iIk9xTFeGopPIBERrr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (1993) - T05 - SD LEG FIX[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 05 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/ybOBQoxJfCe2BPmoVqsbCJSR2VW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (1994) - T06 - SD LEG FIX[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 06 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/lhMXnqfxnvoxtQDK4b2P7THAFQC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (2000) - T07 - SD LEG FIX[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 07 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/lMXwk2TGyi4PsZi1UiW1HOgmED2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (2001) - T08 - SD LEG FIX[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 08 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/71yoWNI4J6dBRMgdKRv8AAMV7c8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (2003) - T09 - SD LEG FIX[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 09 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/oVpSzKXWD12unrxBTLL4VkizrQH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (2006) - T10 - SD LEG FIX[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 010 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/thGvb5O0CYbbr3Jd0GvEnPkMXs7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (2008) - T11 - SD LEG FIX[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 011 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/pIGaZSwOnVGZXMUMwVqfZYnwm7L.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (2010) - T12 - SD LEG FIX[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 012 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/i8j5Ee376639QDESj50AeZSksYW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (2013) - T13 - SD LEG FIX[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 013 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/w051x8MUeEqBDrnhZvNveoGo2UQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>O grande Detetive em seus mais misteriosos casos.</info>
 <genre>CRIME E DRAMA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -94,8 +308,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
 <item>
-<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU  ?
+ CONTATE O SUPORTE NO WHATS, QUE RESOLVEMOS. [/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
